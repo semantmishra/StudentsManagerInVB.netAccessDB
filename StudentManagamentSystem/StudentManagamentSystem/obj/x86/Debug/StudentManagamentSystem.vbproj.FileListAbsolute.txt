@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\bin\Debug\StudentManagamentSystem.exe
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\bin\Debug\StudentManagamentSystem.pdb
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\bin\Debug\StudentManagamentSystem.xml
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Resources.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Temp.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.exe
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.xml
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.pdb
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.ManageStudentScreen.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Dashboard.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Devolpers.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Help.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.StudentInfoScreen.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.Login.resources
+C:\Users\user\Desktop\StudentManagamentSystem\StudentManagamentSystem\obj\x86\Debug\StudentManagamentSystem.vbprojResolveAssemblyReference.cache
